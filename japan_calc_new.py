@@ -26,7 +26,7 @@ def calculate_goal_percentage(goals_scored):
     return goal_percentage
 
 def check_last_five_home_games(home_team):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     home_team_games_last_5 = df[df['Home Team'] == home_team].head(5)
     home_team_games_last_5_sorted = home_team_games_last_5.sort_values(by='Date', ascending=False)
@@ -55,7 +55,7 @@ def check_last_five_home_games(home_team):
     return goal_percentage_last_5, goal_percentage_last_10, goal_percentage_last_15
 
 def check_last_five_away_games(away_team):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     away_team_games_last_5 = df[df['Away Team'] == away_team].head(5)
     away_team_games_last_5_sorted = away_team_games_last_5.sort_values(by='Date', ascending=False)
@@ -113,7 +113,7 @@ def calculate_goal_percentage(goals_conceded):
     return goal_percentage
 
 def check_last_five_home_games(home_team):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     home_team_games_last_5 = df[df['Home Team'] == home_team].head(5)
     home_team_games_last_5_sorted = home_team_games_last_5.sort_values(by='Date', ascending=False)
@@ -142,7 +142,7 @@ def check_last_five_home_games(home_team):
     return goal_percentage_last_5, goal_percentage_last_10, goal_percentage_last_15
 
 def check_last_five_away_games(away_team):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     away_team_games_last_5 = df[df['Away Team'] == away_team].head(5)
     away_team_games_last_5_sorted = away_team_games_last_5.sort_values(by='Date', ascending=False)
@@ -199,7 +199,7 @@ def calculate_goal_percentage(goals_scored):
     return goal_percentage
 
 def check_last_games(home_team, away_team, num_games):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     home_team_games = df[df['Home Team'] == home_team].sort_values(by='Date', ascending=False).head(num_games)
     away_team_games = df[df['Away Team'] == away_team].sort_values(by='Date', ascending=False).head(num_games)
@@ -251,7 +251,7 @@ def calculate_goal_percentage(goals_conceded):
     return goal_percentage
 
 def check_last_games(home_team, away_team, num_games):
-    df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+    df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
     home_team_games = df[df['Home Team'] == home_team].sort_values(by='Date', ascending=False).head(num_games)
     away_team_games = df[df['Away Team'] == away_team].sort_values(by='Date', ascending=False).head(num_games)
@@ -314,7 +314,7 @@ def check_condition(home_team, df):
     percentage = calculate_percentage(condition_met, len(home_team_games))
     return percentage
 
-df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 home_team_percentage_over_and_xg = check_condition(home_team_input, df)
 
 print(f"{home_team_input} scored 0 goals after 45 minutes, had xG > 0.5 after 45 minutes, and scored over 0.5 goals after 90 minutes in {home_team_percentage_over_and_xg}% of their games.")
@@ -336,7 +336,7 @@ def check_condition(away_team, df):
         percentage = 0
     return percentage
 
-df = pd.read_csv('C:\\Users\\WJ\\Downloads\\Norway Data\\full_league_data_norway.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
+df = pd.read_csv('https://github.com/willbadpenny/projecto/blob/main/full_league_data_japan.csv', sep='\t', parse_dates=['Date'], dayfirst=True)
 
 away_team_percentage_over_and_xg = check_condition(away_team_input, df)
 
