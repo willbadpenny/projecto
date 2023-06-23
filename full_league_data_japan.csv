@@ -1,0 +1,152 @@
+Date	Home Team	Away Team	Home Team Goals Scored After 90	Away Team Goals Scored After 90	Home Team Goals Conceded After 90	Away Team Goals Conceded After 90	Home Team Goals Scored After 45	Away Team Goals Scored After 45	Home Team Goals Conceded After 45	Away Team Goals Conceded After 45	xg Home After 45	xg Away After 45
+15/04/23 06:00	Albirex Niigata	Avispa Fukuoka	3	2	2	3	0	2	2	0		
+28/05/23 06:00	Albirex Niigata	G-Osaka	1	3	3	1	0	2	2	0	0.38	1.18
+23/04/23 06:00	Albirex Niigata	Kashima	0	2	2	0	0	2	2	0	0.24	1.33
+07/05/23 06:00	Albirex Niigata	Kashiwa	0	0	0	0	0	0	0	0	0.77	0.07
+11/03/23 05:00	Albirex Niigata	Kawasaki	1	0	0	1	1	0	0	1		
+11/06/23 06:00	Albirex Niigata	Kyoto Sanga	1	3	3	1	0	1	1	0	0.38	0.45
+01/04/23 06:00	Albirex Niigata	Nagoya	1	3	3	1	1	0	0	1		
+04/03/23 05:00	Albirex Niigata	Sapporo	2	2	2	2	2	1	1	2		
+14/05/23 05:30	Albirex Niigata	Yokohama M.	2	1	1	2	0	1	1	0	0.55	0.6
+25/02/23 06:00	Avispa Fukuoka	C-Osaka	2	1	1	2	0	0	0	0		
+03/06/23 10:00	Avispa Fukuoka	G-Osaka	1	2	2	1	1	2	2	1	0.35	0.54
+04/03/23 06:00	Avispa Fukuoka	Kashiwa	1	0	0	1	0	0	0	0		
+29/04/23 09:00	Avispa Fukuoka	Kawasaki	1	3	3	1	0	1	1	0	0.11	0.69
+09/04/23 07:00	Avispa Fukuoka	Kyoto Sanga	2	1	1	2	0	0	0	0		
+14/05/23 05:30	Avispa Fukuoka	Sagan Tosu	0	0	0	0	0	0	0	0	0.93	0.36
+19/03/23 05:00	Avispa Fukuoka	Shonan	2	1	1	2	0	0	0	0		
+03/05/23 07:00	Avispa Fukuoka	Tokyo	1	0	0	1	0	0	0	0	0.58	0.06
+20/05/23 05:00	Avispa Fukuoka	Urawa	0	0	0	0	0	0	0	0	0.35	0.14
+18/02/23 05:00	C-Osaka	Albirex Niigata	2	2	2	2	1	1	1	1		
+29/04/23 06:00	C-Osaka	Hiroshima	0	1	1	0	0	0	0	0	0.05	1.53
+07/05/23 06:00	C-Osaka	Kashima	0	1	1	0	0	0	0	0	0.17	0.16
+23/04/23 06:00	C-Osaka	Kashiwa	1	0	0	1	1	0	0	1	0.44	0.39
+10/06/23 11:00	C-Osaka	Kobe	2	1	1	2	0	0	0	0	0.25	0.55
+12/03/23 05:00	C-Osaka	Sagan Tosu	2	1	1	2	1	0	0	1		
+09/04/23 06:00	C-Osaka	Sapporo	2	3	3	2	1	2	2	1		
+28/05/23 06:00	C-Osaka	Yokohama FC	2	0	0	2	1	0	0	1	0.7	0.05
+01/04/23 08:00	C-Osaka	Yokohama M.	2	1	1	2	2	0	0	2		
+03/05/23 06:00	G-Osaka	C-Osaka	1	2	2	1	0	1	1	0	0.36	0.34
+12/03/23 07:00	G-Osaka	Hiroshima	1	2	2	1	0	1	1	0		
+09/04/23 07:00	G-Osaka	Kawasaki	2	0	0	2	1	0	0	1		
+25/02/23 06:00	G-Osaka	Sagan Tosu	1	1	1	1	0	0	0	0		
+18/03/23 06:00	G-Osaka	Sapporo	2	2	2	2	0	2	2	0		
+11/06/23 10:00	G-Osaka	Tokyo	3	1	1	3	2	0	0	2	1.27	0.14
+23/04/23 08:00	G-Osaka	Yokohama FC	1	1	1	1	1	1	1	1	0.68	0.31
+20/05/23 11:00	G-Osaka	Yokohama M.	0	2	2	0	0	1	1	0	0.48	0.85
+26/02/23 05:00	Hiroshima	Albirex Niigata	1	2	2	1	0	2	2	0		
+07/05/23 05:00	Hiroshima	Avispa Fukuoka	3	1	1	3	0	1	1	0	0.24	1.08
+19/03/23 05:00	Hiroshima	Kashiwa	1	0	0	1	0	0	0	0		
+04/06/23 06:00	Hiroshima	Kyoto Sanga	3	1	1	3	0	0	0	0	0.16	0.37
+09/04/23 06:00	Hiroshima	Sagan Tosu	1	0	0	1	0	0	0	0		
+18/02/23 05:00	Hiroshima	Sapporo	0	0	0	0	0	0	0	0		
+27/05/23 06:00	Hiroshima	Shonan	1	0	0	1	0	0	0	0	1.25	0
+22/04/23 06:00	Hiroshima	Tokyo	1	2	2	1	1	2	2	1	0.71	0.24
+12/03/23 06:00	Kashima	Avispa Fukuoka	0	0	0	0	0	0	0	0		
+29/04/23 11:00	Kashima	G-Osaka	4	0	0	4	0	0	0	0	0.29	0.27
+01/04/23 07:00	Kashima	Hiroshima	1	2	2	1	0	0	0	0		
+25/02/23 07:00	Kashima	Kawasaki	1	2	2	1	1	0	0	1		
+15/04/23 08:00	Kashima	Kobe	1	5	5	1	0	2	2	0		
+14/05/23 05:30	Kashima	Nagoya	2	0	0	2	1	0	0	1	0.31	0.28
+11/06/23 10:00	Kashima	Shonan	1	0	0	1	1	0	0	1	0.05	0.42
+20/05/23 07:00	Kashima	Tokyo	1	1	1	1	1	1	1	1	0.61	1.01
+18/02/23 06:00	Kashiwa	G-Osaka	2	2	2	2	1	0	0	1		
+09/04/23 11:00	Kashiwa	Kashima	1	0	0	1	1	0	0	1		
+20/05/23 08:00	Kashiwa	Kobe	1	1	1	1	0	1	1	0	0.41	0.53
+29/04/23 07:00	Kashiwa	Kyoto Sanga	1	1	1	1	0	1	1	0	0.15	0.17
+12/03/23 06:00	Kashiwa	Nagoya	0	3	3	0	0	1	1	0		
+03/06/23 11:00	Kashiwa	Sapporo	4	5	5	4	2	3	3	2	0.75	2.27
+26/02/23 06:00	Kashiwa	Tokyo	1	1	1	1	1	1	1	1		
+31/03/23 11:00	Kashiwa	Urawa	0	3	3	0	0	1	1	0		
+13/05/23 08:00	Kashiwa	Yokohama FC	0	1	1	0	0	0	0	0	1.34	0.18
+18/03/23 07:00	Kawasaki	C-Osaka	0	0	0	0	0	0	0	0		
+11/06/23 11:00	Kawasaki	Hiroshima	1	0	0	1	0	0	0	0	0.17	0.26
+28/05/23 09:00	Kawasaki	Kashiwa	2	0	0	2	2	0	0	2	1.71	0.12
+15/04/23 07:00	Kawasaki	Nagoya	1	2	2	1	0	2	2	0		
+07/05/23 07:00	Kawasaki	Sagan Tosu	1	0	0	1	0	0	0	0	0.85	0.09
+04/03/23 04:00	Kawasaki	Shonan	1	1	1	1	0	0	0	0		
+23/04/23 08:00	Kawasaki	Urawa	1	1	1	1	0	0	0	0	0.24	0.92
+17/02/23 10:00	Kawasaki	Yokohama M.	1	2	2	1	0	2	2	0		
+09/04/23 06:00	Kobe	Albirex Niigata	0	0	0	0	0	0	0	0		
+18/02/23 05:00	Kobe	Avispa Fukuoka	1	0	0	1	0	0	0	0		
+04/03/23 05:00	Kobe	G-Osaka	4	0	0	4	1	0	0	1		
+13/05/23 06:00	Kobe	Hiroshima	2	0	0	2	0	0	0	0	0.36	0.18
+29/04/23 06:00	Kobe	Shonan	2	0	0	2	1	0	0	1	0.75	0.05
+27/05/23 06:00	Kobe	Tokyo	3	2	2	3	3	0	0	3	2.05	0.09
+11/03/23 05:00	Kobe	Urawa	0	1	1	0	0	1	1	0		
+07/05/23 06:00	Kobe	Yokohama FC	3	0	0	3	1	0	0	1	0.92	0.09
+22/04/23 11:00	Kobe	Yokohama M.	2	3	3	2	2	2	2	2	1.89	0.66
+14/05/23 05:30	Kyoto Sanga	C-Osaka	0	1	1	0	0	1	1	0	0.36	0.26
+15/04/23 08:00	Kyoto Sanga	G-Osaka	2	1	1	2	1	1	1	1		
+18/02/23 05:00	Kyoto Sanga	Kashima	0	2	2	0	0	2	2	0		
+03/05/23 06:00	Kyoto Sanga	Kawasaki	0	1	1	0	0	0	0	0	0.18	0.15
+01/04/23 06:00	Kyoto Sanga	Kobe	0	3	3	0	0	0	0	0		
+23/04/23 06:00	Kyoto Sanga	Sagan Tosu	2	3	3	2	1	3	3	1	0.98	0.63
+04/03/23 05:00	Kyoto Sanga	Tokyo	2	0	0	2	0	0	0	0		
+27/05/23 11:00	Kyoto Sanga	Urawa	0	2	2	0	0	0	0	0	0.32	0.3
+11/06/23 08:00	Nagoya	Avispa Fukuoka	2	1	1	2	1	0	0	1	1.74	0.03
+03/06/23 08:00	Nagoya	C-Osaka	3	1	1	3	3	1	1	3	1.69	0.55
+06/05/23 11:00	Nagoya	G-Osaka	1	0	0	1	0	0	0	0	0.73	0.01
+20/05/23 07:00	Nagoya	Hiroshima	2	1	1	2	1	1	1	1	0.9	0.62
+03/05/23 07:00	Nagoya	Kobe	2	2	2	2	0	1	1	0	0.09	0.55
+25/02/23 07:00	Nagoya	Kyoto Sanga	1	0	0	1	0	0	0	0		
+23/04/23 07:00	Nagoya	Shonan	2	2	2	2	1	0	0	1	1.29	0.12
+18/03/23 05:00	Nagoya	Tokyo	0	0	0	0	0	0	0	0		
+09/04/23 07:00	Nagoya	Urawa	0	0	0	0	0	0	0	0		
+20/05/23 09:00	Sagan Tosu	Albirex Niigata	2	0	0	2	1	0	0	1	0.27	0.51
+27/05/23 09:00	Sagan Tosu	Kashima	2	2	2	2	1	1	1	1	1.02	0.83
+15/04/23 07:00	Sagan Tosu	Kashiwa	1	1	1	1	0	0	0	0		
+18/03/23 06:00	Sagan Tosu	Kobe	0	1	1	0	0	1	1	0		
+04/03/23 06:00	Sagan Tosu	Nagoya	1	0	0	1	0	0	0	0		
+10/06/23 11:00	Sagan Tosu	Sapporo	1	1	1	1	0	1	1	0	0.06	1.68
+18/02/23 06:00	Sagan Tosu	Shonan	1	5	5	1	1	3	3	1		
+01/04/23 07:00	Sagan Tosu	Tokyo	1	0	0	1	0	0	0	0		
+03/05/23 07:00	Sagan Tosu	Yokohama M.	1	3	3	1	1	2	2	1	0.77	0.74
+23/04/23 06:00	Sapporo	Avispa Fukuoka	2	2	2	2	2	0	0	2	0.95	0.32
+03/05/23 06:00	Sapporo	Kashima	0	1	1	0	0	1	1	0	0.6	0.14
+01/04/23 11:00	Sapporo	Kawasaki	3	4	4	3	2	3	3	2		
+25/02/23 06:00	Sapporo	Kobe	1	3	3	1	0	1	1	0		
+19/05/23 11:30	Sapporo	Kyoto Sanga	2	1	1	2	1	1	1	1	1.33	1.21
+27/05/23 05:00	Sapporo	Nagoya	1	2	2	1	0	1	1	0	0.48	0.65
+06/05/23 06:00	Sapporo	Tokyo	5	1	1	5	3	0	0	3	1.43	0.48
+12/03/23 06:00	Sapporo	Yokohama M.	2	0	0	2	1	0	0	1		
+03/06/23 07:00	Shonan	Albirex Niigata	2	2	2	2	1	1	1	1	1.37	1.12
+20/05/23 07:00	Shonan	C-Osaka	0	2	2	0	0	0	0	0	0.13	0.05
+01/04/23 07:00	Shonan	G-Osaka	4	1	1	4	4	0	0	4		
+03/05/23 07:00	Shonan	Kashiwa	1	2	2	1	1	1	1	1	0.37	0.12
+12/03/23 06:00	Shonan	Kyoto Sanga	0	2	2	0	0	0	0	0		
+13/05/23 07:00	Shonan	Sapporo	2	4	4	2	0	1	1	0	0.14	0.57
+24/02/23 10:00	Shonan	Yokohama FC	2	2	2	2	2	1	1	2		
+15/04/23 07:00	Shonan	Yokohama M.	1	1	1	1	0	0	0	0		
+29/04/23 07:00	Tokyo	Albirex Niigata	2	1	1	2	2	1	1	2	0.26	0.33
+15/04/23 08:00	Tokyo	C-Osaka	1	2	2	1	0	0	0	0		
+12/05/23 11:30	Tokyo	Kawasaki	2	1	1	2	2	1	1	2	0.75	0.36
+09/04/23 07:00	Tokyo	Shonan	2	2	2	2	1	0	0	1		
+18/02/23 05:00	Tokyo	Urawa	2	0	0	2	0	0	0	0		
+12/03/23 06:00	Tokyo	Yokohama FC	3	1	1	3	2	1	1	2		
+03/06/23 07:00	Tokyo	Yokohama M.	2	3	3	2	2	1	1	2	1.36	0.26
+18/03/23 06:00	Urawa	Albirex Niigata	2	1	1	2	2	1	1	2		
+04/03/23 06:00	Urawa	C-Osaka	2	1	1	2	0	1	1	0		
+14/05/23 08:00	Urawa	G-Osaka	3	1	1	3	1	1	1	1	1.21	0.17
+31/05/23 11:30	Urawa	Hiroshima	2	1	1	2	0	0	0	0	0.45	0.3
+04/06/23 09:00	Urawa	Kashima	0	0	0	0	0	0	0	0	0.1	0.25
+10/05/23 11:30	Urawa	Sagan Tosu	0	2	2	0	0	0	0	0		
+15/04/23 07:00	Urawa	Sapporo	4	1	1	4	0	0	0	0		
+03/05/23 11:00	Yokohama FC	Albirex Niigata	1	0	0	1	0	0	0	0	0.1	0.04
+01/04/23 06:00	Yokohama FC	Avispa Fukuoka	1	1	1	1	1	1	1	1		
+15/04/23 06:00	Yokohama FC	Hiroshima	0	3	3	0	0	0	0	0		
+04/03/23 05:00	Yokohama FC	Kashima	1	3	3	1	1	2	2	1		
+20/05/23 08:00	Yokohama FC	Kawasaki	2	1	1	2	1	0	0	1	0.21	0.41
+18/03/23 05:00	Yokohama FC	Kyoto Sanga	1	4	4	1	1	1	1	1		
+18/02/23 05:00	Yokohama FC	Nagoya	0	1	1	0	0	1	1	0		
+03/06/23 10:30	Yokohama FC	Sagan Tosu	1	2	2	1	0	0	0	0	0.28	0.28
+29/04/23 06:00	Yokohama FC	Sapporo	1	4	4	1	1	2	2	1	1.11	1.24
+11/06/23 10:30	Yokohama FC	Urawa	0	0	0	0	0	0	0	0	0.17	0.65
+28/05/23 06:00	Yokohama M.	Avispa Fukuoka	2	0	0	2	2	0	0	2	1.18	0.33
+03/03/23 10:00	Yokohama M.	Hiroshima	1	1	1	1	1	1	1	1		
+18/03/23 05:00	Yokohama M.	Kashima	2	1	1	2	0	0	0	0		
+10/06/23 08:00	Yokohama M.	Kashiwa	4	3	3	4	2	1	1	2	1.28	0.61
+07/05/23 06:00	Yokohama M.	Kyoto Sanga	4	1	1	4	1	1	1	1	1.15	0.23
+29/04/23 07:00	Yokohama M.	Nagoya	1	1	1	1	0	1	1	0	0.25	0.49
+25/02/23 05:00	Yokohama M.	Urawa	2	0	0	2	1	0	0	1		
+08/04/23 11:00	Yokohama M.	Yokohama FC	5	0	0	5	0	0	0	0		
